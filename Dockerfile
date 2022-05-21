@@ -1,6 +1,6 @@
 FROM python:3.7
 
-MAINTAINER Vikram Shinde "vik.shinde@gmail.com"
+MAINTAINER Prasad Dudiki "prasaddudiki1986@gmail.com"
 
 COPY requirements.txt /requirements.txt
 
